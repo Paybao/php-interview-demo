@@ -1,8 +1,6 @@
 # php-interview-demo
 
-## PHP 技能实测项目
-
-要求：
+## PHP 技能实测项目要求：
 
 1. 非常熟悉 PHP 开发语言，三年以上 PHP 开发经验；
 1. 非常熟悉 Yii2 框架，一年以上 Yii2 开发经验；
@@ -13,7 +11,6 @@
 1. 熟悉 DynamoDB 者优先；
 1. 熟悉 TDD 开发方法者优先；
 1. 代码风格符合此编码规范者优先 https://github.com/yiisoft/yii2/blob/master/docs/internals/core-code-style.md
-
 
 ## Yii2 地址模块功能说明
 
