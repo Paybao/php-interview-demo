@@ -1,6 +1,6 @@
 # php-interview-demo
 
-PHP 技能实测项目
+## PHP 技能实测项目
 
 要求：
 
@@ -19,24 +19,23 @@ PHP 技能实测项目
 
 1. 模块可应用于 Yii2 框架。
 1. 开发以下地址管理接口：
-  - 城市列表
-  - 提取，从字符串中提取城市、县区、地址等
-  - 创建，字段有姓名、手机号、城市、县区、地址、邮编等
-  - 搜索
-  - 查看
-  - 修改
-  - 删除
+    - 城市列表
+    - 提取，从字符串中提取城市、县区、地址等
+    - 创建，字段有姓名、手机号、城市、县区、地址、邮编等
+    - 搜索
+    - 查看
+    - 修改
+    - 删除
 1. 基于 Codeception 编写功能测试。
 1. 基于以下目录结构进行开发。
+    ```
+    address/
+        api/
+        components/
+        helpers/
+            TwCityHelper.php
+        models/
+        tests/
+            unit/
+    ```
 1. 开发时限 3-6 小时。
-
-```
-address/
-    api/
-    components/
-    helpers/
-        TwCityHelper.php
-    models/
-    tests/
-        unit/
-```
