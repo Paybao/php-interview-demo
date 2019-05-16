@@ -31,6 +31,7 @@
         components/
         helpers/
             TwCityHelper.php
+        migrations/
         models/
         tests/
             unit/
