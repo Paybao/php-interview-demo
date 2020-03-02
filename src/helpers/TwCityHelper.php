@@ -1,6 +1,6 @@
 <?php
 
-namespace address\helpers;
+namespace tsmd\address\helpers;
 
 /**
  * 台湾城市列表
